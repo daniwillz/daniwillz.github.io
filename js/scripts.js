@@ -1,4 +1,4 @@
-function initCooper() {
+function initport() {
     "use strict";
 	/*
 	  =======================================================================
@@ -518,5 +518,5 @@ function initparallax() {
 */
 $(function() {
     initparallax();
-    initCooper();
+    initport();
 });
