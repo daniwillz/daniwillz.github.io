@@ -269,7 +269,7 @@ function initport() {
     if (count > 10) $(".bg-title").css({
         "font-size": "64px"
     }); else $(".bg-title").css({
-        "font-size": "94px"
+        "font-size": "70px"
     });
 	/*
 	  =======================================================================
