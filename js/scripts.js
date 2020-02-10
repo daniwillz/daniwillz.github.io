@@ -282,9 +282,9 @@ function initport() {
     $(".piechart-holder").appear(function() {
         $(this).find(".chart").each(function() {
             $(".chart").easyPieChart({
-                barColor: "#eb3349",
-                trackColor: "#404040",
-                scaleColor: "#eb3349",
+                barColor: "#00C2FF",
+                trackColor: "#0E2433",
+                scaleColor: "#00C2FF",
                 size: "150",
                 lineWidth: "40",
                 lineCap: "butt",
